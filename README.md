@@ -1,7 +1,4 @@
 ---
-The are avilable here in my huggingface page :
-https://huggingface.co/salim34/RandEmodellama/tree/main
-This readme file have all essensial info about this model .
 
 tags:
 - sentence-transformers
@@ -45,6 +42,9 @@ library_name: sentence-transformers
 ---
 
 # SentenceTransformer based on sentence-transformers/all-mpnet-base-v2
+The are avilable here in my huggingface page :
+https://huggingface.co/salim34/RandEmodellama/tree/main
+This readme file have all essensial info about this model .
 
 This is a [sentence-transformers](https://www.SBERT.net) model finetuned from [sentence-transformers/all-mpnet-base-v2](https://huggingface.co/sentence-transformers/all-mpnet-base-v2). It maps sentences & paragraphs to a 768-dimensional dense vector space and can be used for semantic textual similarity, semantic search, paraphrase mining, text classification, clustering, and more.
 
