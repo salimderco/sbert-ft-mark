@@ -42,7 +42,7 @@ library_name: sentence-transformers
 ---
 
 # SentenceTransformer based on sentence-transformers/all-mpnet-base-v2
-The are avilable here in my huggingface page :
+The Model avilable here in my huggingface page :
 https://huggingface.co/salim34/RandEmodellama/tree/main
 This readme file have all essensial info about this model .
 
